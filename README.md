@@ -25,8 +25,8 @@ Una experiencia en Webflow que proyecta autoridad total para matar el "SaaS Fant
 Product Design:
 
 [![Trello](https://img.shields.io/badge/Trello-Project_Management-blue)](https://trello.com/)
-[![Miro](https://img.shields.io/badge/Miro-Team_Boards-lightgrey.svg)](https://miro.com/es/)
-[![Google Sheets](https://img.shields.io/badge/Google_Sheets-Deploy-green)](https://www.google.com/sheets/about/)
+[![Figjam](https://img.shields.io/badge/Figjam-Team_Boards-lightgrey.svg)](https://figma.com)
+[![Gemini](https://img.shields.io/badge/Gemini-3.0-green)](https://www.google.com/sheets/about/)
 [![GitHub](https://img.shields.io/badge/GitHub-Version_Control-orange.svg)](https://github.com/)
 
 UX/UI Design:
@@ -83,7 +83,7 @@ UX Research:
 | `UX Researcher`       | Matías Ron Ares          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/04-04-91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/mat%C3%ADas-ron-ares-a4b09819a/)    
 | `Graphic Designer`        | María Paula Mariani           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/No-Country-Equipos/S02-26-Equipo-60-Product-Design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/maria-paula-mariani-057594274/)             |   
 | `Graphic Designer`        | Maria Sol Bruna            | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/MariaSolBruna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/maria-sol-bruna/)               | 
-| `UX/UI Designer`        | Alejandra Ramirez           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/No-Country-Equipos/S02-26-Equipo-60-Product-Design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/alejandra-ramirez-ux-uidesigner-a74aa7266/)              |   
+| `UX/UI Designer`        | Alejandra Ramirez           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/AlejandraRamirezWeb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/alejandra-ramirez-ux-uidesigner-a74aa7266/)              |   
 
 ## Video Demo Day
 
