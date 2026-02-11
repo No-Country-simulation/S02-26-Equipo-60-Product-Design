@@ -71,6 +71,9 @@ UX Research:
 [![JMeter](https://img.shields.io/badge/JMeter-Performance_Test-yellow.svg)](https://jmeter.apache.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-Automates_Browsers-orange.svg)](https://www.selenium.dev/)
 
+## Documentación UX Writing
+
+-[Brandbook - Guía de voz y tonos](https://drive.google.com/file/d/1E7jhdMJ5Dc4Gj_HUnTfw5T4WOjFrDm_A/view?usp=sharing)
 
 ## Team
 
