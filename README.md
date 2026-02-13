@@ -75,6 +75,10 @@ UX Research:
 
 -[Brandbook - Guía de voz y tonos](https://drive.google.com/file/d/1E7jhdMJ5Dc4Gj_HUnTfw5T4WOjFrDm_A/view?usp=sharing)
 
+## Documentación Research
+
+-[Análisis de la competencia/Insights](https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=0-1&t=YnQZMkp2pWFPjNCX-1)
+
 ## Team
 
 | Role              | Names                     | Social Network                                                                                                                    |
