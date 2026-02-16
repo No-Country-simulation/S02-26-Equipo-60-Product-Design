@@ -1,12 +1,12 @@
 
-# Legal-tech Project: Scaly
+# E-commerce Project: Legal-tech Scaly
 
 S02-26-Equipo 60-Product Design
 
 
 ![Scaly is trustful](/assets/Scalylogo.png "Scaly")
 
-## Quiénes Somos
+## ¿Quiénes Somos?
 
 Somos una ventanilla única digital para que cualquier persona abra y mantenga su
 empresa en US sin volverse loca.
@@ -20,22 +20,32 @@ La Misión: Que el proceso sea tan fácil que la gente no tenga miedo de pagar, 
  - #### Sistema de Aterizaje de alta conversión: 
 Una experiencia en Webflow que proyecta autoridad total para matar el "SaaS Fantasma", un Quiz interactivo que guía al usuario a elegir su estructura en USA eliminando el miedo al IRS, un checkout directo en Stripe para capturar revenue al instante y una automatización que entrega al cliente pagado en Pipedrive, garantizando que el tráfico de Ads se traduzca en dinero real y no en simples formularios vacíos.
 
+## Team
+
+| Role              | Names                     | Social Network                                                                                                                    |
+| :---------------- | :-----------------------  | :-------------------------------------------------------------------------------------------------------------------------------- |
+| `Product Designer`  | Fernando Vergel          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/nemgf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/fernandovergel/)             |
+| `UX/UI Designer`       | Diego Marin               | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/DIGORACCOON4279) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/diegomarinmora/)           |
+| `UX/UI Designer`       | Aylen Diaz          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/07821-ga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/aylendiazmayoral/)             |
+| `UX Writer`       | Julieta Escat          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/JulietaEscat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/julietaescat/)             |                         
+| `UX Researcher`       | Matías Ron Ares          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/04-04-91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/mat%C3%ADas-ron-ares-a4b09819a/)             |   
+| `Graphic Designer`        | Maria Sol Bruna            | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/MariaSolBruna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/maria-sol-bruna/)               |
+
 ## Technologies
 
 Product Design:
 
-[![Trello](https://img.shields.io/badge/Trello-Project_Management-blue)](https://trello.com/)
 [![Figjam](https://img.shields.io/badge/Figjam-Team_Boards-lightgrey.svg)](https://figma.com)
-[![Gemini](https://img.shields.io/badge/Gemini-3.0-green)](https://www.google.com/sheets/about/)
+[![Gemini](https://img.shields.io/badge/Gemini-Researching-red)](https://www.google.com/sheets/about/)
 [![GitHub](https://img.shields.io/badge/GitHub-Version_Control-orange.svg)](https://github.com/)
+[![Trello](https://img.shields.io/badge/Trello-Project_Management-blue)](https://trello.com/)
+[![Google Forms](https://img.shields.io/badge/Google_Forms-Surveys-yellow)](https://www.google.com/forms)
 
 UX/UI Design:
 
-[![Figma](https://img.shields.io/badge/Figma-Design-orange)](https://www.figma.com/design/9Pqwgz3rr1Rtk47jgk8ive/Eureka?node-id=0-1&t=Rodia6tKdo6d4W3U-1)
-[![Marvel App](https://img.shields.io/badge/Marvel_App-Prototyping-green)](https://marvelapp.com/)
-[![Google Forms](https://img.shields.io/badge/Google_Forms-Surveys-yellow)](https://www.google.com/forms)
+[![Figma](https://img.shields.io/badge/Figma-Design-orange)](https://www.figma.com/design/nDTkWmZyfyGQlq5BIApvIN/Scaly?node-id=102-36&t=uuYMzbAMS33M2qLd-1)
+[![Lovable](https://img.shields.io/badge/Lovable-Prototyping-violet)](https://lovable.dev/)
 [![Optimal Workshop](https://img.shields.io/badge/Optimal_Workshop-Product_Development-blue)](https://www.optimalworkshop.com/)
-[![Photoshop](https://img.shields.io/badge/Photoshop-Img_Editor-lightgrey)](https://www.adobe.com/products/photoshop.html)
 [![KDEnLive](https://img.shields.io/badge/KDEnLive-Video_Editor-yellow)](https://kdenlive.org/)
 
 No Code Front-End:
@@ -49,27 +59,19 @@ No Code Front-End:
 
 UX Writing:
 
-[![Java](https://img.shields.io/badge/Java-Scripting-yellow)](https://docs.oracle.com/en/java/)
-[![Spring](https://img.shields.io/badge/Spring-Framework-green)](https://spring.io/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue.svg)](https://www.postgresql.org/)
-[![Railway](https://img.shields.io/badge/Railway-Deploy-lightgrey)](https://railway.app/)
-[![Cloudinary](https://img.shields.io/badge/Cloudinary-Img_Storage-blue.svg)](https://cloudinary.com/)
+[![Figjam](https://img.shields.io/badge/Figjam-Team_Boards-lightgrey.svg)](https://figma.com)
+
 
 Graphic Design:
 
-[![Google Sheets](https://img.shields.io/badge/Google_Sheets-Deploy-lightgrey)](https://www.google.com/sheets/about/)
+[![Figma](https://img.shields.io/badge/Figma-Design-orange)](https://www.figma.com/design/nDTkWmZyfyGQlq5BIApvIN/Scaly?node-id=102-36&t=uuYMzbAMS33M2qLd-1)
+[![Photoshop](https://img.shields.io/badge/Photoshop-Img_Editor-lightgrey)](https://www.adobe.com/products/photoshop.html)
 [![Trello](https://img.shields.io/badge/Trello-Project_Management-blue)](https://trello.com/)
-[![Postman](https://img.shields.io/badge/Postman-API_Platform-green.svg)](https://www.postman.com/)
-[![JMeter](https://img.shields.io/badge/JMeter-Performance_Test-yellow.svg)](https://jmeter.apache.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-Automates_Browsers-orange.svg)](https://www.selenium.dev/)
 
 UX Research:
 
 [![Google Sheets](https://img.shields.io/badge/Google_Sheets-Deploy-lightgrey)](https://www.google.com/sheets/about/)
 [![Trello](https://img.shields.io/badge/Trello-Project_Management-blue)](https://trello.com/)
-[![Postman](https://img.shields.io/badge/Postman-API_Platform-green.svg)](https://www.postman.com/)
-[![JMeter](https://img.shields.io/badge/JMeter-Performance_Test-yellow.svg)](https://jmeter.apache.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-Automates_Browsers-orange.svg)](https://www.selenium.dev/)
 
 ## Documentación UX Writing
 
@@ -79,32 +81,19 @@ UX Research:
 
 -[Análisis de la competencia/Insights](https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=0-1&t=YnQZMkp2pWFPjNCX-1)
 
-## Team
-
-| Role              | Names                     | Social Network                                                                                                                    |
-| :---------------- | :-----------------------  | :-------------------------------------------------------------------------------------------------------------------------------- |
-| `Product Designer`  | Fernando Vergel          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/nemgf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/fernandovergel/)             |
-| `UX/UI Designer`       | Diego Marin               | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/DIGORACCOON4279) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/diegomarinmora/)           |
-| `UX/UI Designer`       | Aylen Diaz          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/07821-ga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/aylendiazmayoral/)             |
-| `UX Writer`       | Julieta Escat          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/JulietaEscat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/julietaescat/)             |                         
-| `UX Researcher`       | Matías Ron Ares          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/04-04-91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/mat%C3%ADas-ron-ares-a4b09819a/)    
-| `Graphic Designer`        | María Paula Mariani           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/No-Country-Equipos/S02-26-Equipo-60-Product-Design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/maria-paula-mariani-057594274/)             |   
-| `Graphic Designer`        | Maria Sol Bruna            | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/MariaSolBruna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/maria-sol-bruna/)               | 
-| `UX/UI Designer`        | Alejandra Ramirez           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/AlejandraRamirezWeb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/alejandra-ramirez-ux-uidesigner-a74aa7266/)              |   
-
-## Video Demo Day
+## Vídeo Demo Day
 
 [Video link]
 
-## Prototype
+## Prototipo
 
-Prototype en Figma [link al proyecto]
+Prototipo en Figma [link al proyecto]
 
 ## Deploy
 
 Webflow [link al deployment]
 
-## Project Documentation
-Proyect en Miro [link al documento]
+## Pizarra Colaborativa
+Proyecto en Figjam [link al documento](https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=349-350&t=cHQANoPpCu3IZeNX-1)
 
 
