@@ -4,7 +4,7 @@
 S02-26-Equipo 60-Product Design
 
 
-[Project logo]
+![Scaly is trustful](/assets/Scalylogo.png "Scaly")
 
 ## Quiénes Somos
 
