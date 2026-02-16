@@ -50,12 +50,7 @@ UX/UI Design:
 
 No Code Front-End:
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-Scripting-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React JS](https://img.shields.io/badge/React_JS-Library-blue)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-Bundler-green)](https://vitejs.dev/)
-[![React-Redux](https://img.shields.io/badge/React_Redux-Global_Var-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Utility_Framework-blue)](https://tailwindcss.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-Deploy-green)](https://vercel.com/)
+[![Webflow](https://img.shields.io/badge/Webflow-Deploy-green)](https://webflow.com/)
 
 UX Writing:
 
