@@ -48,14 +48,13 @@ UX/UI Design:
 [![Optimal Workshop](https://img.shields.io/badge/Optimal_Workshop-Product_Development-blue)](https://www.optimalworkshop.com/)
 [![KDEnLive](https://img.shields.io/badge/KDEnLive-Video_Editor-yellow)](https://kdenlive.org/)
 
-No Code Front-End:
-
-[![Webflow](https://img.shields.io/badge/Webflow-Deploy-green)](https://webflow.com/)
-
 UX Writing:
 
-[![Figjam](https://img.shields.io/badge/Figjam-Team_Boards-lightgrey.svg)](https://figma.com)
-
+[![Google Drive](https://img.shields.io/badge/Google_Drive-Docs-lightgrey.svg)](https://drive.google.com)
+[![Figma Design](https://img.shields.io/badge/Figma-Design-orange.svg)](https://figma.com)
+[![Figma Slides](https://img.shields.io/badge/Figma-Slides-purple.svg)](https://figma.com)
+[![FigJam](https://img.shields.io/badge/FigJam-Collaboration-lightgrey.svg)](https://figma.com/figjam/)
+[![Trello](https://img.shields.io/badge/Trello-Project_Management-blue.svg)](https://trello.com)
 
 Graphic Design:
 
@@ -67,6 +66,10 @@ UX Research:
 
 [![Google Sheets](https://img.shields.io/badge/Google_Sheets-Deploy-lightgrey)](https://www.google.com/sheets/about/)
 [![Trello](https://img.shields.io/badge/Trello-Project_Management-blue)](https://trello.com/)
+
+No Code Front-End:
+
+[![Webflow](https://img.shields.io/badge/Webflow-Deploy-green)](https://webflow.com/)
 
 ## Documentación UX Writing
 
