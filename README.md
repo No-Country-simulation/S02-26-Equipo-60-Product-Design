@@ -35,7 +35,7 @@ Una experiencia en Webflow que proyecta autoridad total para matar el "SaaS Fant
 
 Product Design:
 
-[![Figjam](https://img.shields.io/badge/Figjam-Team_Boards-lightgrey.svg)](https://figma.com)
+[![FigJam](https://img.shields.io/badge/FigJam-Collaboration-lightgrey.svg)](https://figma.com/figjam/)
 [![Gemini](https://img.shields.io/badge/Gemini-Researching-red)](https://www.google.com/sheets/about/)
 [![GitHub](https://img.shields.io/badge/GitHub-Version_Control-orange.svg)](https://github.com/)
 [![Trello](https://img.shields.io/badge/Trello-Project_Management-blue)](https://trello.com/)
