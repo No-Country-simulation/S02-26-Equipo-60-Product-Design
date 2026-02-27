@@ -70,13 +70,14 @@ UX Research:
 
 ## Documentación UX Writing
 
--[Brandbook - Guía de voz y tonos](https://drive.google.com/file/d/1E7jhdMJ5Dc4Gj_HUnTfw5T4WOjFrDm_A/view?usp=sharing)
+- [Brandbook - Guía de voz y tonos](https://drive.google.com/file/d/1E7jhdMJ5Dc4Gj_HUnTfw5T4WOjFrDm_A/view?usp=sharing)
+- [Brief de contenidos](https://drive.google.com/file/d/136itgIVCygttjD16z631kXnTGFJ1NHji/view?usp=sharing)
 
-## Documentación Research
+## Documentación UX Research
 
--[Análisis de la competencia/Insights](https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=0-1&t=YnQZMkp2pWFPjNCX-1)
+- [Análisis de la competencia/Insights](https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=0-1&t=YnQZMkp2pWFPjNCX-1)
 
-## Vídeo Demo Day
+## Video Demo Day
 
 [Video link]
 
