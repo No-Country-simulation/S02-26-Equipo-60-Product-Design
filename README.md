@@ -9,16 +9,17 @@ S02-26-Equipo 60-Product Design
 ## ¿Quiénes somos?
 
 Somos una ventanilla única digital para que cualquier persona abra y mantenga su
-empresa en US sin volverse loca.
+empresa en Estados Unidos sin volverse loca.
 
-Queremos mejorar nuestro ecommerce para dirigir tráfico con ads y mejorar la conversión. Es importante lograr que tanto google como meta puedan mediante el pixel hacer el conteo de los pagos que ingresan al pagar vía Stripe.
+Queremos mejorar nuestro ecommerce para dirigir tráfico con ads y mejorar la conversión. Es importante lograr que tanto Google como Meta puedan mediante el pixel hacer el conteo de los pagos que ingresan al pagar vía Stripe.
 
-El Formato: Un e-commerce. El user entra, elige un paquete, paga y nosotros hacemos el papeleo.
-La Misión: Que el proceso sea tan fácil que la gente no tenga miedo de pagar, y que nosotros podamos medir cada dólar que entra por Ads.
+El formato: un e-commerce. El user entra, elige un paquete, paga y nosotros hacemos el papeleo.
+
+La misión: que el proceso sea tan fácil que la gente no tenga miedo de pagar, y que nosotros podamos medir cada dólar que entra por ads.
 
 ## Producto Mínimo Viable (MVP)
  - #### Sistema de aterrizaje de alta conversión: 
-Una experiencia en Webflow que proyecta autoridad total para matar el "SaaS Fantasma", un Quiz interactivo que guía al usuario a elegir su estructura en USA eliminando el miedo al IRS, un checkout directo en Stripe para capturar revenue al instante y una automatización que entrega al cliente pagado en Pipedrive, garantizando que el tráfico de Ads se traduzca en dinero real y no en simples formularios vacíos.
+Una experiencia en Webflow que proyecta autoridad total para matar el "SaaS Fantasma", un Quiz interactivo que guía a las personas usuarias a elegir su estructura en Estados Unidos eliminando el miedo al IRS, un checkout directo en Stripe para capturar revenue al instante y una automatización que entrega al cliente pagado en Pipedrive, garantizando que el tráfico de ads se traduzca en dinero real y no en simples formularios vacíos.
 
 ## Equipo
 
@@ -88,7 +89,7 @@ Prototipo en Figma [link al proyecto]
 
 Webflow [link al deployment]
 
-## Pizarra Colaborativa
-Proyecto en Figjam [link al documento](https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=349-350&t=cHQANoPpCu3IZeNX-1)
+## Pizarra colaborativa
+- [Proyecto en FigJam] (https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=349-350&t=cHQANoPpCu3IZeNX-1)
 
 
