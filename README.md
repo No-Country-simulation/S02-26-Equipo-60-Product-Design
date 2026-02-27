@@ -55,6 +55,7 @@ UX Writing:
 [![Figma Slides](https://img.shields.io/badge/Figma-Slides-purple.svg)](https://figma.com)
 [![FigJam](https://img.shields.io/badge/FigJam-Collaboration-lightgrey.svg)](https://figma.com/figjam/)
 [![Trello](https://img.shields.io/badge/Trello-Project_Management-blue.svg)](https://trello.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Version_Control-orange.svg)](https://github.com/)
 
 Graphic Design:
 
