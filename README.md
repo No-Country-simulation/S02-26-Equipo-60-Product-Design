@@ -77,6 +77,9 @@ UX Research:
 
 - [Análisis de la competencia/Insights](https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=0-1&t=YnQZMkp2pWFPjNCX-1)
 
+## Pizarra colaborativa
+- [Proyecto en FigJam](https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=349-350&t=cHQANoPpCu3IZeNX-1)
+
 ## Video Demo Day
 
 [Video link]
@@ -88,8 +91,5 @@ Prototipo en Figma [link al proyecto]
 ## Deploy
 
 Webflow [link al deployment]
-
-## Pizarra colaborativa
-- [Proyecto en FigJam](https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=349-350&t=cHQANoPpCu3IZeNX-1)
 
 
