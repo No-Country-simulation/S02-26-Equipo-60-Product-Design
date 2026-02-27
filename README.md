@@ -6,7 +6,7 @@ S02-26-Equipo 60-Product Design
 
 ![Scaly is trustful](/assets/Scalylogo.png "Scaly")
 
-## ¿Quiénes Somos?
+## ¿Quiénes somos?
 
 Somos una ventanilla única digital para que cualquier persona abra y mantenga su
 empresa en US sin volverse loca.
@@ -16,13 +16,13 @@ Queremos mejorar nuestro ecommerce para dirigir tráfico con ads y mejorar la co
 El Formato: Un e-commerce. El user entra, elige un paquete, paga y nosotros hacemos el papeleo.
 La Misión: Que el proceso sea tan fácil que la gente no tenga miedo de pagar, y que nosotros podamos medir cada dólar que entra por Ads.
 
-## Minimum Viable Product (MVP)
- - #### Sistema de Aterizaje de alta conversión: 
+## Producto Mínimo Viable (MVP)
+ - #### Sistema de aterrizaje de alta conversión: 
 Una experiencia en Webflow que proyecta autoridad total para matar el "SaaS Fantasma", un Quiz interactivo que guía al usuario a elegir su estructura en USA eliminando el miedo al IRS, un checkout directo en Stripe para capturar revenue al instante y una automatización que entrega al cliente pagado en Pipedrive, garantizando que el tráfico de Ads se traduzca en dinero real y no en simples formularios vacíos.
 
-## Team
+## Equipo
 
-| Role              | Names                     | Social Network                                                                                                                    |
+| Rol              | Nombre                      | Redes sociales                                                                                                                    |
 | :---------------- | :-----------------------  | :-------------------------------------------------------------------------------------------------------------------------------- |
 | `Product Designer`  | Fernando Vergel          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/nemgf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/fernandovergel/)             |
 | `UX/UI Designer`       | Aylen Diaz          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/07821-ga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/aylendiazmayoral/)             |
@@ -30,7 +30,7 @@ Una experiencia en Webflow que proyecta autoridad total para matar el "SaaS Fant
 | `UX Researcher`       | Matías Ron Ares          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/04-04-91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/mat%C3%ADas-ron-ares-a4b09819a/)             |   
 | `Graphic Designer`        | Maria Sol Bruna            | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/MariaSolBruna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/maria-sol-bruna/)               |
 
-## Technologies
+## Tecnologías utilizadas 
 
 Product Design:
 
