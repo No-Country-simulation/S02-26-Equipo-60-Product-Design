@@ -90,6 +90,6 @@ Prototipo en Figma [link al proyecto]
 Webflow [link al deployment]
 
 ## Pizarra colaborativa
-- [Proyecto en FigJam] (https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=349-350&t=cHQANoPpCu3IZeNX-1)
+- [Proyecto en FigJam](https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=349-350&t=cHQANoPpCu3IZeNX-1)
 
 
