@@ -36,7 +36,7 @@ Una experiencia en Webflow que proyecta autoridad total para matar el "SaaS Fant
 Product Design:
 
 [![FigJam](https://img.shields.io/badge/FigJam-Collaboration-lightgrey.svg)](https://figma.com/figjam/)
-[![Gemini](https://img.shields.io/badge/Gemini-Researching-red)](https://www.google.com/sheets/about/)
+[![Gemini](https://img.shields.io/badge/Gemini-Researching-red)](https://gemini.google.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Version_Control-orange.svg)](https://github.com/)
 [![Trello](https://img.shields.io/badge/Trello-Project_Management-blue)](https://trello.com/)
 [![Google Forms](https://img.shields.io/badge/Google_Forms-Surveys-yellow)](https://www.google.com/forms)
@@ -44,9 +44,10 @@ Product Design:
 UX/UI Design:
 
 [![Figma](https://img.shields.io/badge/Figma-Design-orange)](https://www.figma.com/design/nDTkWmZyfyGQlq5BIApvIN/Scaly?node-id=102-36&t=uuYMzbAMS33M2qLd-1)
+[![Gemini](https://img.shields.io/badge/Gemini-Researching-red)](https://gemini.google.com/)
 [![Lovable](https://img.shields.io/badge/Lovable-Prototyping-violet)](https://lovable.dev/)
 [![Optimal Workshop](https://img.shields.io/badge/Optimal_Workshop-Product_Development-blue)](https://www.optimalworkshop.com/)
-[![KDEnLive](https://img.shields.io/badge/KDEnLive-Video_Editor-yellow)](https://kdenlive.org/)
+[![Capcut](https://img.shields.io/badge/Capcut-Video_Editor-yellow)](https://www.capcut.com/)
 
 UX Writing:
 
@@ -65,12 +66,11 @@ Graphic Design:
 
 UX Research:
 
-[![Google Sheets](https://img.shields.io/badge/Google_Sheets-Deploy-lightgrey)](https://www.google.com/sheets/about/)
+[![FigJam](https://img.shields.io/badge/FigJam-Collaboration-lightgrey.svg)](https://figma.com/figjam/)
 [![Trello](https://img.shields.io/badge/Trello-Project_Management-blue)](https://trello.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-Researching-red)](https://chatgpt.com/)
+[![Word](https://img.shields.io/badge/Word-Docs-lightgrey)](https://word.cloud.microsoft/)
 
-No Code Front-End:
-
-[![Webflow](https://img.shields.io/badge/Webflow-Deploy-green)](https://webflow.com/)
 
 ## Documentación UX Writing
 
@@ -82,18 +82,19 @@ No Code Front-End:
 - [Análisis de la competencia/Insights](https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=0-1&t=YnQZMkp2pWFPjNCX-1)
 
 ## Pizarra colaborativa
+
 - [Proyecto en FigJam](https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=349-350&t=cHQANoPpCu3IZeNX-1)
 
-## Video Demo Day
+## Vídeo Demo Day
 
-[Video link]
+- [Enlace al vídeo]
+
+## UI Kit / Wireframes
+
+- [Enlace a Figma](https://www.figma.com/design/nDTkWmZyfyGQlq5BIApvIN/Scaly?node-id=1184-4669&t=pgMZsSQH42Go0241-1)
 
 ## Prototipo
 
-Prototipo en Figma [link al proyecto]
-
-## Deploy
-
-Webflow [link al deployment]
+- [Enlace al prototipo](https://www.figma.com/proto/nDTkWmZyfyGQlq5BIApvIN/Scaly?node-id=878-10874&t=9FiJ7am2T9Ou2ONd-1&scaling=contain&content-scaling=fixed&page-id=1%3A3)
 
 
