@@ -87,7 +87,7 @@ UX Research:
 
 ## Vídeo Demo Day
 
-- [Enlace al vídeo]
+- [Enlace al vídeo](https://www.youtube.com/watch?v=e2iLUgw8t2E)
 
 ## UI Kit / Wireframes
 
