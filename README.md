@@ -85,9 +85,10 @@ UX Research:
 
 - [Proyecto en FigJam](https://www.figma.com/board/wYjXW7xGDQwktTfaRF1GY2/Scaly?node-id=349-350&t=cHQANoPpCu3IZeNX-1)
 
-## Vídeo Demo Day
+## Video Demo Day
 
-- [Enlace al vídeo](https://www.youtube.com/watch?v=e2iLUgw8t2E)
+- [Enlace al video](https://www.youtube.com/watch?v=e2iLUgw8t2E)
+- [Guion del video](https://drive.google.com/file/d/1Q_uSMsO6R2M-DmoAlmxqNBEV87z62zNC/view?usp=sharing)
 
 ## UI Kit / Wireframes
 
