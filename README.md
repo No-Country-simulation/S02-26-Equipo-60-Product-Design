@@ -21,6 +21,8 @@ La misión: que el proceso sea tan fácil que la gente no tenga miedo de pagar, 
  - #### Sistema de aterrizaje de alta conversión: 
 Una experiencia en Webflow que proyecta autoridad total para matar el "SaaS Fantasma", un Quiz interactivo que guía a las personas usuarias a elegir su estructura en Estados Unidos eliminando el miedo al IRS, un checkout directo en Stripe para capturar revenue al instante y una automatización que entrega al cliente pagado en Pipedrive, garantizando que el tráfico de ads se traduzca en dinero real y no en simples formularios vacíos.
 
+![Scaly Product Squad](/assets/Scaly_Product_Squad.png "Scally Product Squad")
+
 ## Equipo
 
 | Rol              | Nombre                      | Redes sociales                                                                                                                    |
@@ -71,6 +73,11 @@ UX Research:
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-Researching-red)](https://chatgpt.com/)
 [![Word](https://img.shields.io/badge/Word-Docs-lightgrey)](https://word.cloud.microsoft/)
 
+
+
+## Documentación General
+
+- [Scaly - Documentación del Proyecto](https://drive.google.com/file/d/1CEFlmJgR6U8PqWAHlyqaBt9fNb3xgiuw/view?usp=sharing)
 
 ## Documentación UX Writing
 
