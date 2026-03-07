@@ -17,6 +17,8 @@ El formato: un e-commerce. El user entra, elige un paquete, paga y nosotros hace
 
 La misión: que el proceso sea tan fácil que la gente no tenga miedo de pagar, y que nosotros podamos medir cada dólar que entra por ads.
 
+![Scaly website](/assets/Scalyhome.png "Scally")
+
 ## Producto Mínimo Viable (MVP)
  - #### Sistema de aterrizaje de alta conversión: 
 Una experiencia en Webflow que proyecta autoridad total para matar el "SaaS Fantasma", un Quiz interactivo que guía a las personas usuarias a elegir su estructura en Estados Unidos eliminando el miedo al IRS, un checkout directo en Stripe para capturar revenue al instante y una automatización que entrega al cliente pagado en Pipedrive, garantizando que el tráfico de ads se traduzca en dinero real y no en simples formularios vacíos.
