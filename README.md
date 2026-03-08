@@ -77,9 +77,9 @@ UX Research:
 
 
 
-## Documentación General
+## Documentación general
 
-- [Scaly - Documentación del Proyecto](https://drive.google.com/file/d/1CEFlmJgR6U8PqWAHlyqaBt9fNb3xgiuw/view?usp=sharing)
+- [Scaly - Documentación del proyecto](https://drive.google.com/file/d/1CEFlmJgR6U8PqWAHlyqaBt9fNb3xgiuw/view?usp=sharing)
 
 ## Documentación UX Writing
 
